@@ -4,6 +4,8 @@
 module.exports = {
   siteMetadata: {
     title: `portfolio`,
+    description: `Example project`,
+    image: `/gatsby-icon.png`,
     siteUrl: `https://www.yourdomain.tld`
   },
   plugins: ["gatsby-plugin-theme-ui",  "gatsby-plugin-image", "gatsby-plugin-sitemap", {
