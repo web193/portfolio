@@ -3,8 +3,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `portfolio`,
-    description: `Example project`,
+    title: `Hui Yang's portfolio`,
+    description: `Hui Yang's project`,
     image: `/gatsby-icon.png`,
     siteUrl: `https://www.yourdomain.tld`
   },
